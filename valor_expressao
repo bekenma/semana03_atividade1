@@ -1,0 +1,3 @@
+x = float(input(""))
+expressao_1 = 9 * x - 4 * x + 10
+print(f'{expressao_1}')
